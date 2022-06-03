@@ -17,7 +17,7 @@
                     <h3>Posts #1</h3>
                 </header>
                 <p>
-                    Lorem Ipsum <a href=https://www.linkedin.com/in/maxcilany-firmino-3b2134216/"target="_blank">é simplesmente um texto fictício da indústria tipográfica e de impressão</a>.
+                    Lorem Ipsum <a href=https://www.linkedin.com/in/maxcilany-firmino-3b2134216/" target="_blank">é simplesmente um texto fictício da indústria tipográfica e de impressão</a>.
                     Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500, quando um impressor
                     desconhecido pegou uma cozinha de tipos e embaralhou-a para fazer um livro de espécimes de tipos.
                     Ele sobreviveu não apenas cinco séculos, mas também o salto para a composição eletrônica, 
