@@ -6,20 +6,22 @@
     </head>
     <body>
         <header>
+            <center>
             <h1>Maxcilany Firmino</h1>
+            <img src="C:/imagem/eu.jpg" height="150" widht="150">
         </header>
         <section>
             <header>
-                <h2>Posts</h2>
+                <h2>Lany Firmino</h2>
             </header>
             <article>
                 <header>
-                    <h3>Posts #1</h3>
+                    <h3>Oq é Lorem Ipsum</h3>
                 </header>
                 <p>
                     Lorem Ipsum <a href=https://www.linkedin.com/in/maxcilany-firmino-3b2134216/" target="_blank">é simplesmente um texto fictício da indústria tipográfica e de impressão</a>.
                     Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500, quando um impressor
-                    desconhecido pegou uma cozinha de tipos e embaralhou-a para fazer um livro de espécimes de tipos.
+                    desconhecido pegou <a href="mailto:lanyalbuquerque4@gmail.com"> uma cozinha</a> de tipos e embaralhou-a para fazer um livro de espécimes de tipos.
                     Ele sobreviveu não apenas cinco séculos, mas também o salto para a composição eletrônica, 
                     permanecendo essencialmente inalterado. Foi popularizado na década de 1960 com o lançamento de folhas
                     Letraset contendo passagens de Lorem Ipsum e, mais recentemente, com software de editoração eletrônica
@@ -27,6 +29,20 @@
                 </p>
             </article>
         </section>
-        <footer></footer>
+        <footer>
+            <ol>
+                <li>
+                    <a href="mailto:lanyalbuquerque4@gmail.com" target="_blank">Email</a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/maxcilany-firmino-3b2134216/" target="_blank">Linkedin</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/Maxcilany" targert="_blank">Gthub</a>
+                </li>
+
+            </ol>
+        </footer>
     </body>
 </html>
